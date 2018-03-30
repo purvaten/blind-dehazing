@@ -1,3 +1,4 @@
 *.pyc
 *.patches
 *.pairs
+*~
