@@ -9,17 +9,16 @@ The implementation of "*Blind dehazing using internal patch recurrence*" is in p
 ## Blind dehazing using internal patch recurrence Results
 
 ### Transmission Maps
-
-![one](https://user-images.githubusercontent.com/13128829/38472254-f98ae5c6-3b9a-11e8-8dc4-38198c6668bf.png)
-![two](https://user-images.githubusercontent.com/13128829/38472256-024bdca6-3b9b-11e8-8c7a-01d943103df0.png)
-![three](https://user-images.githubusercontent.com/13128829/38472270-2866e048-3b9b-11e8-838a-d442b7440e2b.png)
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/13128829/38472254-f98ae5c6-3b9a-11e8-8dc4-38198c6668bf.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/13128829/38472256-024bdca6-3b9b-11e8-8c7a-01d943103df0.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/13128829/38472270-2866e048-3b9b-11e8-838a-d442b7440e2b.png"></p>
 
 ### Results before tmap estimation (assuming lower bound on tmap)
 
-![four](https://user-images.githubusercontent.com/13128829/38472275-2f58c13c-3b9b-11e8-9942-589a213b23f4.png)
-![five](https://user-images.githubusercontent.com/13128829/38472279-3a66e400-3b9b-11e8-9385-b00f37e9c874.png)
-![six](https://user-images.githubusercontent.com/13128829/38472280-44152430-3b9b-11e8-9ff3-4ab937cd48ff.png)
-![seven](https://user-images.githubusercontent.com/13128829/38472283-53c515fc-3b9b-11e8-8d0e-6332385b7765.png)
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/13128829/38472275-2f58c13c-3b9b-11e8-9942-589a213b23f4.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/13128829/38472279-3a66e400-3b9b-11e8-9385-b00f37e9c874.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/13128829/38472280-44152430-3b9b-11e8-9ff3-4ab937cd48ff.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/13128829/38472283-53c515fc-3b9b-11e8-8d0e-6332385b7765.png"></p>
 
 ## Single Image Haze Removal Using Dark Channel Prior Results
 
