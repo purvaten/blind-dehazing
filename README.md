@@ -10,16 +10,16 @@ The implementation of "*Blind dehazing using internal patch recurrence*" is in p
 
 ### Transmission Maps
 
-![cone_tmap](https://user-images.githubusercontent.com/13128829/38472050-9a9bcc9a-3b97-11e8-8f17-83f4adf7e257.png)
-![cityscape_tmap](https://user-images.githubusercontent.com/13128829/38472055-a5e674c4-3b97-11e8-951c-cc510b1bf85e.png)
-![pumpkins_tmap](https://user-images.githubusercontent.com/13128829/38472068-eeea684c-3b97-11e8-8471-a96b3b47d72b.png)
+![one](https://user-images.githubusercontent.com/13128829/38472254-f98ae5c6-3b9a-11e8-8dc4-38198c6668bf.png)
+![two](https://user-images.githubusercontent.com/13128829/38472256-024bdca6-3b9b-11e8-8c7a-01d943103df0.png)
+![three](https://user-images.githubusercontent.com/13128829/38472270-2866e048-3b9b-11e8-838a-d442b7440e2b.png)
 
 ### Results before tmap estimation (assuming lower bound on tmap)
 
-![30074123_2054097438135437_1338466170_o](https://user-images.githubusercontent.com/13128829/38472071-fbcda600-3b97-11e8-84f6-9edea49c8927.png)
-![30074586_2054095744802273_459964696_o](https://user-images.githubusercontent.com/13128829/38472075-081f869e-3b98-11e8-87ba-2b583b55ac12.png)
-![pumpkin](https://user-images.githubusercontent.com/13128829/38472092-439b960e-3b98-11e8-85f6-9886384761a5.png)
-![swan](https://user-images.githubusercontent.com/13128829/38472089-3a2c7782-3b98-11e8-952f-adb00d76dff6.png)
+![four](https://user-images.githubusercontent.com/13128829/38472275-2f58c13c-3b9b-11e8-9942-589a213b23f4.png)
+![five](https://user-images.githubusercontent.com/13128829/38472279-3a66e400-3b9b-11e8-9385-b00f37e9c874.png)
+![six](https://user-images.githubusercontent.com/13128829/38472280-44152430-3b9b-11e8-9ff3-4ab937cd48ff.png)
+![seven](https://user-images.githubusercontent.com/13128829/38472283-53c515fc-3b9b-11e8-8d0e-6332385b7765.png)
 
 ## Single Image Haze Removal Using Dark Channel Prior Results
 
